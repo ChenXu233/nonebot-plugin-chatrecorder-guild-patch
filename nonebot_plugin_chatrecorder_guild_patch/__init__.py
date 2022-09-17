@@ -5,7 +5,7 @@ from nonebot.message import event_postprocessor
 
 require("nonebot_plugin_datastore")
 from nonebot_plugin_datastore import create_session
-require("nonebot_plugin_chatrcorder")
+require("nonebot_plugin_chatrecorder")
 from nonebot_plugin_chatrecorder import serialize_message
 from nonebot_plugin_chatrecorder.model import MessageRecord
 require("nonebot_plugin_guild_patch")
