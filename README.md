@@ -1,4 +1,6 @@
-# nonebot-plugin-chatrecorder-guild-patch
+# 注意💥因依赖插件更新了onebotv12，该插件已不再使用
+
+## nonebot-plugin-chatrecorder-guild-patch
 
 适用于[nonebot-plugin-chatrecorder](https://github.com/noneplugin/nonebot-plugin-chatrecorder)的频道适配器
 
